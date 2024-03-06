@@ -1,0 +1,29 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "front": "What is the capital of France?",
+      "back": "Paris"
+    },
+    {
+      "id": 2,
+      "front": "What is the chemical symbol for water?",
+      "back": "H2O"
+    },
+    {
+      "id": 3,
+      "front": "Who wrote 'Romeo and Juliet'?",
+      "back": "William Shakespeare"
+    },
+    {
+      "id": 4,
+      "front": "What is the powerhouse of the cell?",
+      "back": "Mitochondria"
+    },
+    {
+      "id": 5,
+      "front": "What is the square root of 64?",
+      "back": "8"
+    }
+  ]
+}
